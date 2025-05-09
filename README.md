@@ -44,8 +44,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** (3º semestre) na **
 
 ## 🏅 Certificações & Cursos
 
-- 🎓 **Lógica de programação: mergulhe em programação com JavaScript** (Fundação Bradesco) 
-- 🎓 **Lógica de programação: explore funções e listas** (Fundação Bradesco) 
+- 🎓 **Lógica de programação: mergulhe em programação com JavaScript** (Alura) 
+- 🎓 **Lógica de programação: explore funções e listas** (Alura) 
 - 🎓 **Introdução à Progamação Orientada a Objetos(POO)** (Fundação Bradesco) 
 - 🎓 **Fundamentos do Suporte Técnico Google** (Google via Coursera)  
 - 🎓 **Certificação em Modelagem de Dados** (Fundação Bradesco)     
