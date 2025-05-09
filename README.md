@@ -33,10 +33,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** (3º semestre) na **
 
 - 🎮 **[jogo-do-numero-secreto](https://github.com/RenatoRissato/jogo-do-numero-secreto)**  
   Jogo interativo em HTML e JavaScript para praticar lógica de programação.  
-- 🐍 **[site-carro-esportivo ](https://github.com/RenatoRissato/site-carro-esportivo )**  
-  Um site estático desenvolvido com HTML, CSS e JavaScript, focado em exibir carros esportivos de alto desempenho.
-- 🐍 **[Python](https://github.com/RenatoRissato/Python)**  
-  Estudos e scripts em Python aplicados a problemas práticos.  
+- 🚗 **[site-carro-esportivo ](https://github.com/RenatoRissato/site-carro-esportivo )**  
+  Um site estático desenvolvido com HTML, CSS e JavaScript, focado em exibir carros esportivos de alto desempenho. 
 - 📅 **Sistema de Gestão de Disciplinas e Horários (em breve)**  
   Projeto integrador do 3º semestre, voltado ao desenvolvimento de um sistema para criação e gerenciamento de horários acadêmicos e atribuição de disciplinas.
 
