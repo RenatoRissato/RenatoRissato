@@ -36,7 +36,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** (3º semestre) na **
 - 🚗 **[site-carro-esportivo ](https://github.com/RenatoRissato/site-carro-esportivo )**  
   Um site estático desenvolvido com HTML, CSS e JavaScript, focado em exibir carros esportivos de alto desempenho.
 - 💻 **[dev-store](https://github.com/RenatoRissato/dev-store)**
-  Um site estático moderno e responsivo, que simula uma vitrine digital para apresentação de produtos tecnológicos da Apple. O projeto destaca três produtos principais: **Apple Watch Series 10**, **AirPods Max** e **Apple Vision Pro**.
+  Um site estático moderno e responsivo, que simula uma vitrine digital para apresentação de produtos tecnológicos da Apple.
 - 📅 **Sistema de Gestão de Disciplinas e Horários (em breve)**  
   Projeto integrador do 3º semestre, voltado ao desenvolvimento de um sistema para criação e gerenciamento de horários acadêmicos e atribuição de disciplinas.
 
