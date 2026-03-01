@@ -4,7 +4,7 @@
 
 Me chamo **Renato Rissato da Silva**, tenho **21 anos** e sou apaixonado por tecnologia desde criança, quando montei meu primeiro computador.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** (3º semestre) na **Universidade Einstein de Limeira**, onde aprofundo conhecimentos em JavaScript, HTML, CSS, C, Flutter, PHP, redes, metodologias ágeis, banco de dados e muito mais.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** (5º semestre) na **Universidade Einstein de Limeira**, onde aprofundo conhecimentos em JavaScript, HTML, CSS, C, Flutter, PHP, redes, metodologias ágeis, banco de dados e muito mais.
 
 **Busco minha primeira oportunidade na área de tecnologia** para aplicar tudo o que venho aprendendo e contribuir com soluções criativas e eficientes.  
 
