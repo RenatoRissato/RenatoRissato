@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" width="150"/>
 
-Me chamo **Renato Rissato da Silva**, tenho **20 anos** e sou apaixonado por tecnologia desde criança, quando montei meu primeiro computador.
+Me chamo **Renato Rissato da Silva**, tenho **21 anos** e sou apaixonado por tecnologia desde criança, quando montei meu primeiro computador.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** (3º semestre) na **Universidade Einstein de Limeira**, onde aprofundo conhecimentos em JavaScript, HTML, CSS, C, Flutter, PHP, redes, metodologias ágeis, banco de dados e muito mais.
 
