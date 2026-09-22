@@ -245,19 +245,16 @@ O curso também contribuiu para o desenvolvimento de habilidades como **organiza
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=RenatoRissato&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estatísticas do GitHub"
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub de Renato Rissato"
   />
-</p>
 
-<p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRissato&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"
-    alt="Linguagens mais utilizadas"
+    src="./profile/top-langs.svg"
+    alt="Linguagens mais utilizadas por Renato Rissato"
   />
 </p>
----
 
 ## 📫 Entre em contato
 
