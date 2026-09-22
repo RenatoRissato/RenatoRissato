@@ -1,89 +1,265 @@
-# <p align="center"> 👨🏻‍💻Seja bem‑vindo(a) ao meu GitHub! </p>
+<h1 align="center">👨🏻‍💻 Seja bem-vindo(a) ao meu GitHub!</h1>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" width="150"/>
+<p align="center">
+  <strong>Suporte de TI • Infraestrutura • Redes • Desenvolvimento • Dados</strong>
+</p>
 
-Me chamo **Renato Rissato da Silva**, tenho **21 anos** e sou apaixonado por tecnologia desde criança, quando montei meu primeiro computador.
+<p align="center">
+  📍 Limeira - SP &nbsp; • &nbsp; 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+</p>
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** (5º semestre) na **Universidade Einstein de Limeira**, onde aprofundo conhecimentos em JavaScript, HTML, CSS, C, Flutter, PHP, redes, metodologias ágeis, banco de dados e muito mais.
+---
 
-**Busco minha primeira oportunidade na área de tecnologia** para aplicar tudo o que venho aprendendo e contribuir com soluções criativas e eficientes.  
+## 👋 Sobre mim
 
-> “Aprender fazendo e compartilhar conhecimento é o meu lema.” 🚀  
+Me chamo **Renato Rissato da Silva** e sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Einstein de Limeira**.
+
+Atualmente atuo com **suporte técnico e manutenção de equipamentos**, adquirindo experiência prática com diagnóstico e resolução de problemas, atendimento ao usuário, configuração de equipamentos e impressoras.
+
+Tenho interesse principalmente nas áreas de **Suporte de TI, Infraestrutura, Redes e Dados**, além de conhecimentos em desenvolvimento de software.
+
+Durante minha formação desenvolvi projetos utilizando tecnologias como **C, JavaScript, TypeScript, HTML, CSS, SQL, PHP e Java**, além de estudar banco de dados, redes de computadores, sistemas operacionais e engenharia de software.
+
+Também desenvolvo **sites para empresas e prestadores de serviços**, trabalhando desde a criação da interface até responsividade, integração com canais de atendimento, otimização e publicação das aplicações.
+
+Realizo ainda estudos e laboratórios práticos envolvendo **Windows Server, Active Directory, TCP/IP, DNS, DHCP, máquinas virtuais e redes de computadores**.
+
+> 🚀 **“Aprender fazendo e compartilhar conhecimento é o meu lema.”**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 💻 Desenvolvimento
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🖥️ Suporte & Infraestrutura
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Conhecimentos:**
+
+- Hardware e software
+- Windows e Linux básico
+- Windows Server
+- Active Directory
+- TCP/IP
+- Endereçamento IP
+- DNS e DHCP
+- Redes cabeadas e Wi-Fi
+- Impressoras locais e de rede
+- Máquinas virtuais
+- Diagnóstico e resolução de problemas
+
+---
+
+### 📊 Dados & Banco de Dados
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Conhecimentos:**
+
+- SQL
+- SQL Server
+- Modelagem de dados
+- Consultas e manipulação de dados
+- Banco de dados relacionais
+- NoSQL
+- Power BI
+
+---
+
+### ⚙️ Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- 🎮 **[jogo-do-numero-secreto](https://github.com/RenatoRissato/jogo-do-numero-secreto)**  
-  Jogo interativo em HTML e JavaScript para praticar lógica de programação.  
+### 🚌 [SmartRoutes — Trabalho de Conclusão de Curso](https://github.com/RenatoRissato/TCC)
 
-- 🚗 **[site-carro-esportivo ](https://github.com/RenatoRissato/site-carro-esportivo )**  
-  Um site estático desenvolvido com HTML, CSS e JavaScript, focado em exibir carros esportivos de alto desempenho.
+PWA desenvolvido como **Trabalho de Conclusão de Curso em Análise e Desenvolvimento de Sistemas**, criado para auxiliar motoristas de transporte escolar na organização da rotina diária.
 
-- 🌤️ **[site-api-clima](https://github.com/RenatoRissato/site-api-clima)**  
-  Aplicativo web que consome a API do OpenWeatherMap para exibir previsões do tempo em tempo real de qualquer cidade do mundo.
+O sistema permite gerenciar passageiros, acompanhar viagens e automatizar confirmações via **WhatsApp**, ajudando o motorista a identificar quais passageiros utilizarão o transporte e evitando paradas desnecessárias.
 
-- 💻 **[dev-store](https://github.com/RenatoRissato/dev-store)**   
-  Um site estático moderno e responsivo, que simula uma vitrine digital para apresentação de produtos tecnológicos da Apple.
+**Tecnologias utilizadas:**
 
-- 📅 **Sistema de Gestão de Disciplinas e Horários (em breve)**  
-  Projeto integrador do 3º semestre, voltado ao desenvolvimento de um sistema para criação e gerenciamento de horários acadêmicos e atribuição de disciplinas.
+`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `APIs` `PWA`
+
+**Principais funcionalidades:**
+
+- 👥 Gerenciamento de passageiros
+- 🚌 Organização das viagens
+- 🗺️ Visualização de rotas
+- 💬 Confirmações automatizadas via WhatsApp
+- ☁️ Backend e banco de dados com Supabase
+- 📲 Aplicação Web Progressiva (PWA)
+- 🔐 Controle de acesso aos dados
+
+---
+
+### ❄️ [Israel Ar-condicionado — Site Institucional](https://github.com/RenatoRissato/israel-ar-condicionado-site)
+
+Site institucional desenvolvido para um prestador de serviços de **instalação, manutenção e higienização de ar-condicionado em Limeira-SP e região**.
+
+O projeto foi desenvolvido com foco em apresentar os serviços de maneira profissional, facilitar o contato com clientes e aumentar a presença digital do negócio.
+
+**Tecnologias utilizadas:**
+
+`HTML5` `CSS3` `JavaScript` `Vercel`
+
+**Principais recursos:**
+
+- 📱 Layout responsivo
+- 💬 Integração com WhatsApp
+- 📝 Formulário para solicitação de orçamento
+- ⭐ Área de avaliações
+- ❓ FAQ interativo
+- 🔎 Otimizações de SEO
+- ♿ Boas práticas de acessibilidade
+- ⚡ Otimizações de performance
+- ☁️ Deploy na Vercel
+
+---
+
+### 🧺 [Lavanderia Ipê — Site Institucional](https://github.com/RenatoRissato/LavanderiaIpe-MG)
+
+Site desenvolvido para a **Lavanderia Ipê**, lavanderia self-service localizada em **São Gotardo-MG**.
+
+O projeto segue a identidade visual da empresa e foi desenvolvido para apresentar o funcionamento da lavanderia de maneira simples e moderna, facilitando o acesso às principais informações pelos clientes.
+
+**Tecnologias utilizadas:**
+
+`HTML5` `CSS3` `JavaScript` `Vercel`
+
+**Principais recursos:**
+
+- 📱 Interface responsiva
+- 🧼 Explicação do processo de lavagem e secagem
+- 💬 Integração com WhatsApp
+- 🗺️ Integração com Google Maps
+- 🎥 Conteúdo em vídeo
+- 🖼️ Otimização de imagens
+- ♿ Boas práticas de acessibilidade
+- ⚡ Otimizações de carregamento
+- ☁️ Deploy integrado ao GitHub e Vercel
+
+---
+
+### 🌤️ [Site API Clima](https://github.com/RenatoRissato/site-api-clima)
+
+Aplicação web que consome a API do **OpenWeatherMap** para consultar informações meteorológicas de diferentes cidades.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript` `API REST`
+
+---
+
+### 💻 [Dev Store](https://github.com/RenatoRissato/dev-store)
+
+Interface web moderna e responsiva desenvolvida como uma vitrine digital para apresentação de produtos tecnológicos.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🎮 [Jogo do Número Secreto](https://github.com/RenatoRissato/jogo-do-numero-secreto)
+
+Jogo desenvolvido para praticar conceitos fundamentais de **lógica de programação**, funções, condicionais e manipulação de dados utilizando JavaScript.
+
+**Tecnologias:**
+
+`JavaScript` `HTML` `Lógica de Programação`
+
+---
+
+## 🎓 Formação Acadêmica
+
+### Tecnologia em Análise e Desenvolvimento de Sistemas
+
+**Centro Universitário Einstein de Limeira**
+
+Formação voltada para desenvolvimento de sistemas, banco de dados, redes de computadores, engenharia de software, desenvolvimento web, segurança, infraestrutura e tecnologias relacionadas à área de TI.
 
 ---
 
 ## 🏅 Certificações & Cursos
 
-- 🎓 **Lógica de programação: mergulhe em programação com JavaScript** (Alura) 
-- 🎓 **Lógica de programação: explore funções e listas** (Alura) 
-- 🎓 **Introdução à Progamação Orientada a Objetos(POO)** (Fundação Bradesco) 
-- 🎓 **Fundamentos do Suporte Técnico Google** (Google via Coursera)  
-- 🎓 **Certificação em Modelagem de Dados** (Fundação Bradesco)     
-- 🎓 **Fundamentos de TI: Hardware e Software** (Fundação Bradesco)
+- 🎓 **Fundamentos do Suporte Técnico** — Google / Coursera
+- 🎓 **Fundamentos de TI: Hardware e Software** — Fundação Bradesco
+- 🎓 **Modelagem de Dados** — Fundação Bradesco
+- 🎓 **Introdução à Programação Orientada a Objetos (POO)** — Fundação Bradesco
+- 🎓 **Lógica de Programação: mergulhe em programação com JavaScript** — Alura
+- 🎓 **Lógica de Programação: explore funções e listas** — Alura
+
 ---
 
-## 📈 Estatísticas
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRissato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=RenatoRissato&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRissato&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"
+    alt="Linguagens mais utilizadas"
   />
 </p>
 
 ---
 
-## 🔗 Meus Contatos
+## 📫 Entre em contato
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/renatorissatodasilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:renatorissatodasilva55@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+  <a href="mailto:renatorissatodasilva55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/RenatoRissato" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <a href="https://github.com/RenatoRissato">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
 </p>
 
 ---
 
-_Obrigado pela visita! Vamos construir algo incrível juntos._  
+<p align="center">
+  <strong>Obrigado pela visita! 👨🏻‍💻</strong>
+</p>
+
+<p align="center">
+  Sempre aprendendo, construindo projetos e buscando evoluir na área de tecnologia. 🚀
+</p>
