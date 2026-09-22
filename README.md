@@ -165,23 +165,48 @@ O projeto segue a identidade visual da empresa e foi desenvolvido para apresenta
 
 ### 🌤️ [Site API Clima](https://github.com/RenatoRissato/site-api-clima)
 
-Aplicação web que consome a API do **OpenWeatherMap** para consultar informações meteorológicas de diferentes cidades.
+Aplicação web desenvolvida para consultar informações meteorológicas de diferentes cidades em tempo real, utilizando dados fornecidos pela **API do OpenWeatherMap**.
 
-**Tecnologias:**
+O projeto foi criado com foco em praticar o consumo de APIs externas, manipulação de dados em JavaScript e atualização dinâmica da interface conforme a cidade pesquisada pelo usuário.
 
-`HTML` `CSS` `JavaScript` `API REST`
+**Tecnologias utilizadas:**
+
+`HTML5` `CSS3` `JavaScript` `API REST` `OpenWeatherMap`
+
+**Principais recursos:**
+
+- 🔎 Pesquisa de clima por cidade
+- 🌡️ Exibição da temperatura atual
+- ☁️ Identificação das condições climáticas
+- 💧 Informações de umidade
+- 🌬️ Dados relacionados ao vento
+- 🔄 Consumo de dados em tempo real através de API
+- ⚡ Atualização dinâmica das informações na interface
+- 📱 Interface adaptada para diferentes tamanhos de tela
 
 ---
 
 ### 🎮 [Jogo do Número Secreto](https://github.com/RenatoRissato/jogo-do-numero-secreto)
 
-Jogo desenvolvido para praticar conceitos fundamentais de **lógica de programação**, funções, condicionais e manipulação de dados utilizando JavaScript.
+Jogo interativo desenvolvido para colocar em prática conceitos fundamentais de **lógica de programação utilizando JavaScript**.
 
-**Tecnologias:**
+O objetivo do projeto é fazer com que o jogador descubra um número gerado aleatoriamente pelo sistema, recebendo dicas a cada tentativa até encontrar a resposta correta.
 
-`JavaScript` `HTML` `Lógica de Programação`
+**Tecnologias utilizadas:**
 
----
+`HTML5` `JavaScript` `Lógica de Programação`
+
+**Principais recursos:**
+
+- 🎲 Geração aleatória do número secreto
+- ⌨️ Entrada de tentativas pelo jogador
+- 🔼 Indicação se o número secreto é maior
+- 🔽 Indicação se o número secreto é menor
+- ✅ Validação da resposta correta
+- 🔢 Contagem de tentativas realizadas
+- 🔄 Reinício da partida
+- 🧠 Aplicação de condicionais, funções e lógica de programação
+- 🔊 Narração das mensagens do jogo por voz
 
 ## 🎓 Formação Acadêmica
 
