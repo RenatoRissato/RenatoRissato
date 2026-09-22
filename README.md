@@ -242,18 +242,10 @@ O curso também contribuiu para o desenvolvimento de habilidades como **organiza
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    height="180"
-    src="./profile/stats.svg"
-    alt="Estatísticas do GitHub de Renato Rissato"
-  />
+## 📈 Estatísticas do GitHub
 
-  <img
-    height="180"
-    src="./profile/top-langs.svg"
-    alt="Linguagens mais utilizadas por Renato Rissato"
-  />
+<p align="center">
+  <img width="48%" src="./profile/stats.svg" alt="Estatísticas do GitHub de Renato Rissato da Silva"><img width="48%" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas por Renato Rissato">
 </p>
 
 ## 📫 Entre em contato
