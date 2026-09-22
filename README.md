@@ -257,7 +257,6 @@ O curso também contribuiu para o desenvolvimento de habilidades como **organiza
     alt="Linguagens mais utilizadas"
   />
 </p>
-
 ---
 
 ## 📫 Entre em contato
