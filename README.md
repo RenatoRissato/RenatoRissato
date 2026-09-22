@@ -22,7 +22,7 @@ Durante minha formação, desenvolvi projetos utilizando tecnologias como **C, J
 
 Também estou começando a desenvolver **sites para pequenos negócios e prestadores de serviços**, buscando aplicar na prática conhecimentos de desenvolvimento web, responsividade, experiência do usuário, integração com canais de atendimento e publicação de aplicações.
 
-Além disso, realizo estudos e laboratórios práticos envolvendo **Windows Server, Active Directory, TCP/IP, DNS, DHCP, máquinas virtuais e redes de computadores**, com foco em ampliar meus conhecimentos em suporte e infraestrutura de TI.**.
+Além disso, realizo estudos e laboratórios práticos envolvendo **Windows Server, Active Directory, TCP/IP, DNS, DHCP, máquinas virtuais e redes de computadores**, com foco em ampliar meus conhecimentos em suporte e infraestrutura de TI.
 
 > 🚀 **“Aprender fazendo e compartilhar conhecimento é o meu lema.”**
 
@@ -46,14 +46,12 @@ Além disso, realizo estudos e laboratórios práticos envolvendo **Windows Serv
 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 **Conhecimentos:**
 
 - Hardware e software
-- Windows e Linux básico
-- Windows Server
+- Windows e Windows Server
 - Active Directory
 - TCP/IP
 - Endereçamento IP
@@ -172,16 +170,6 @@ Aplicação web que consome a API do **OpenWeatherMap** para consultar informaç
 **Tecnologias:**
 
 `HTML` `CSS` `JavaScript` `API REST`
-
----
-
-### 💻 [Dev Store](https://github.com/RenatoRissato/dev-store)
-
-Interface web moderna e responsiva desenvolvida como uma vitrine digital para apresentação de produtos tecnológicos.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
 
 ---
 
