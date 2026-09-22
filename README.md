@@ -210,11 +210,21 @@ O objetivo do projeto é fazer com que o jogador descubra um número gerado alea
 
 ## 🎓 Formação Acadêmica
 
-### Tecnologia em Análise e Desenvolvimento de Sistemas
+### 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas
 
 **Centro Universitário Einstein de Limeira**
 
-Formação voltada para desenvolvimento de sistemas, banco de dados, redes de computadores, engenharia de software, desenvolvimento web, segurança, infraestrutura e tecnologias relacionadas à área de TI.
+Formação voltada para desenvolvimento de sistemas, banco de dados, redes de computadores, engenharia de software, desenvolvimento web, segurança da informação, infraestrutura e tecnologias aplicadas à área de TI.
+
+---
+
+### 📊 Técnico em Administração e Negócios
+
+**ETEC Trajano Camargo — Limeira/SP**
+
+Formação técnica voltada para administração, organização empresarial, processos administrativos, gestão, planejamento e rotinas do ambiente corporativo.
+
+O curso também contribuiu para o desenvolvimento de habilidades como **organização, comunicação, trabalho em equipe e resolução de problemas**, competências que aplico atualmente também na área de tecnologia.
 
 ---
 
