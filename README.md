@@ -230,14 +230,32 @@ O curso também contribuiu para o desenvolvimento de habilidades como **organiza
 
 ## 🏅 Certificações & Cursos
 
-- 🎓 **Fundamentos do Suporte Técnico** — Google / Coursera
-- 🎓 **Fundamentos de TI: Hardware e Software** — Fundação Bradesco
-- 🎓 **Modelagem de Dados** — Fundação Bradesco
-- 🎓 **Introdução à Programação Orientada a Objetos (POO)** — Fundação Bradesco
-- 🎓 **Lógica de Programação: mergulhe em programação com JavaScript** — Alura
-- 🎓 **Lógica de Programação: explore funções e listas** — Alura
+- 🎓 **Curso Prático de Redes de Computadores e Internet** — Curso em Vídeo  
+  `set 2026`
 
----
+- 🎓 **Começando com o Cisco Packet Tracer** — Cisco Networking Academy  
+  `mai 2026`
+
+- 🎓 **Git e GitHub** — Rocketseat  
+  `mar 2026`
+
+- 🎓 **Fundamentos do Suporte Técnico** — Google / Coursera  
+  `mar 2025`
+
+- 🎓 **Lógica de Programação: Explore Funções e Listas** — Alura  
+  `mar 2025`
+
+- 🎓 **Lógica de Programação: Mergulhe em Programação com JavaScript** — Alura  
+  `fev 2025`
+
+- 🎓 **Fundamentos de TI: Hardware e Software** — Fundação Bradesco  
+  `out 2024`
+
+- 🎓 **Modelagem de Dados** — Fundação Bradesco  
+  `out 2024`
+
+- 🎓 **Introdução à Programação Orientada a Objetos (POO)** — Fundação Bradesco  
+  `out 2024`
 
 ## 📈 Estatísticas do GitHub
 
