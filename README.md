@@ -12,17 +12,19 @@
 
 ## 👋 Sobre mim
 
-Me chamo **Renato Rissato da Silva** e sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Einstein de Limeira**.
+## 👋 Sobre mim
 
-Atualmente atuo com **suporte técnico e manutenção de equipamentos**, adquirindo experiência prática com diagnóstico e resolução de problemas, atendimento ao usuário, configuração de equipamentos e impressoras.
+Me chamo **Renato Rissato da Silva**, tenho **21 anos** e sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Einstein de Limeira**.
 
-Tenho interesse principalmente nas áreas de **Suporte de TI, Infraestrutura, Redes e Dados**, além de conhecimentos em desenvolvimento de software.
+Atualmente atuo com **suporte técnico e manutenção de equipamentos**, desenvolvendo experiência prática em diagnóstico e resolução de problemas, atendimento ao usuário, configuração de equipamentos e suporte a impressoras.
 
-Durante minha formação desenvolvi projetos utilizando tecnologias como **C, JavaScript, TypeScript, HTML, CSS, SQL, PHP e Java**, além de estudar banco de dados, redes de computadores, sistemas operacionais e engenharia de software.
+Tenho interesse principalmente nas áreas de **Suporte de TI, Infraestrutura, Redes e Dados**, mantendo também contato com desenvolvimento de software e criação de aplicações.
 
-Também desenvolvo **sites para empresas e prestadores de serviços**, trabalhando desde a criação da interface até responsividade, integração com canais de atendimento, otimização e publicação das aplicações.
+Durante minha formação, desenvolvi projetos utilizando tecnologias como **C, JavaScript, TypeScript, HTML, CSS, SQL, PHP e Java**, além de estudar banco de dados, redes de computadores, sistemas operacionais, segurança e engenharia de software.
 
-Realizo ainda estudos e laboratórios práticos envolvendo **Windows Server, Active Directory, TCP/IP, DNS, DHCP, máquinas virtuais e redes de computadores**.
+Também estou começando a desenvolver **sites para pequenos negócios e prestadores de serviços**, buscando aplicar na prática conhecimentos de desenvolvimento web, responsividade, experiência do usuário, integração com canais de atendimento e publicação de aplicações.
+
+Além disso, realizo estudos e laboratórios práticos envolvendo **Windows Server, Active Directory, TCP/IP, DNS, DHCP, máquinas virtuais e redes de computadores**, com foco em ampliar meus conhecimentos em suporte e infraestrutura de TI.**.
 
 > 🚀 **“Aprender fazendo e compartilhar conhecimento é o meu lema.”**
 
