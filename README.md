@@ -12,8 +12,6 @@
 
 ## 👋 Sobre mim
 
-## 👋 Sobre mim
-
 Me chamo **Renato Rissato da Silva**, tenho **21 anos** e sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Einstein de Limeira**.
 
 Atualmente atuo com **suporte técnico e manutenção de equipamentos**, desenvolvendo experiência prática em diagnóstico e resolução de problemas, atendimento ao usuário, configuração de equipamentos e suporte a impressoras.
